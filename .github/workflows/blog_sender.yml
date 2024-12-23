@@ -3,17 +3,21 @@ name: Trigger Website Workflow
 on:
   push:
     branches:
-      - main # Adjust if your blog repository uses a different branch
+      - main
 
 jobs:
   trigger:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Set Dynamic Date
+        id: date
+        run: echo "current_date=$(date '+%Y-%m-%d')" >> $GITHUB_ENV
+
       - name: Trigger Website Repository Workflow
         run: |
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token ${{ secrets.PAT_FOR_WEBSITE_REPO }}" \
             https://api.github.com/repos/winzamark123/portfolio-website/dispatches \
-            -d '{"event_type": "update-submodule"}'
+            -d '{"event_type": "${{ env.current_date }} update blog"}'
