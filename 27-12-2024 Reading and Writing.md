@@ -1,0 +1,13 @@
+---
+type: Blog Post
+date: 27-12-2024
+tags: 
+title: 27-12-2024 Reading and Writing
+---
+# Reading and Writing
+The more I read [Paul Graham's essays](https://paulgraham.com/articles.html), the more I realize that one's ability to **write** corresponds with their ability to **think**. To be able to express and explain your feelings, mindset, or line of thought, a person needs to be able think concisely and clearly, even more-so when the only form of expression comes through words read through a paper/website. 
+
+This reminds of the scene in Billions from Taylor Mason 
+"I understand how hard it is to have things inside you that you can't communicate, I can't imagine how hard it must be to know HOW to say them and still NOT be allowed to" - Taylor Mason
+
+Writing is a refined form of thinking, or at the very least refined form of expression which is easiest achieved through through experience. Thus this blog. 
