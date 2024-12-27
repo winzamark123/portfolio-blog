@@ -1,7 +1,10 @@
 ---
 type: Blog Post
-date: 27-12-2024
-tags: 
+date: 2024-12-27
+tags:
+  - reading
+  - writing
+  - paul_graham
 title: 27-12-2024 Reading and Writing
 ---
 # Reading and Writing

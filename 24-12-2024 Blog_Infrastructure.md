@@ -1,6 +1,6 @@
 ---
 type: Blog Post
-date: 24-12-2024
+date: 2024-12-24
 tags:
   - coding
 title: 24-12-2024 Blog Infrastructure
