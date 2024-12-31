@@ -15,5 +15,20 @@ The main difference I had with Chuck's video and many other **"setting up obsidi
 
 Although this COULD be a potential SAAS product :3 
 ### Key Features 
+- Integrate into my current running portfolio website
+- Customisable themes and aestethics (fonts, headings, padding, etc)
+- Contains images and drawings
+
+### Infrastructure 
+![[24-12-2024 Blog_Infrastructure 2024-12-30 13.40.23.excalidraw]]
+
+### Workflow 
+With the infrastructure set up, the workflow for writing a blog becomes seamless. Most of which is handled by the Devops which I've set up in the pipeline. 
+
+1. Create a new file under the Blog 
+2. Specify the title, date, and tags
+3. Write content
+4. Push and sync on Obsidian 
+
 
 
