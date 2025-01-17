@@ -34,7 +34,6 @@ Here’s how the infrastructure is set up:
 
 With this setup, most of the workflow is automated, requiring minimal user intervention. GitHub Actions handle the heavy lifting, ensuring the process is smooth and efficient.
 
-![[24-12-2024 Blog_Infrastructure 2024-12-30 13.40.23.excalidraw]]
 ![[Pasted image 20250104113300.png]]
 ## Workflow: Writing and Publishing Made Simple
 Thanks to this infrastructure, writing and publishing blog posts is a seamless process. Here’s how it works:
