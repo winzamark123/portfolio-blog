@@ -1,8 +1,10 @@
 ---
 type: Blog Post
-date: 2025-02-20
-tags: 
-title: 20-02-2025 First Paycheck
+date: 2025-02-24
+tags:
+  - career
+  - coding
+title: 24-02-2025 First Paycheck
 ---
 # First Paycheck
 ## What's something you've changed your mind on in the past year?
