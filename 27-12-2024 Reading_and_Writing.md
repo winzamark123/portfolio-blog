@@ -12,7 +12,7 @@ The more I read [Paul Graham's essays](https://paulgraham.com/articles.html), th
 
 This reminds of the scene in Billions from Taylor Mason 
 
-*"I understand how hard it is to have things inside you that you can't communicate, I can't imagine how hard it must be to know HOW to say them and still NOT be allowed to"* - Taylor Mason
+"I understand how hard it is to have things inside you that you can't communicate, I can't imagine how hard it must be to know HOW to say them and still NOT be allowed to" - Taylor Mason
 
 Writing is the most refined form of thinking, **conversely** reading is the most refined form of learning. No wonder they say all successful people read a ton. 
 
